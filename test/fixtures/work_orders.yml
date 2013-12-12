@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  priority_id: 
+  status_id: 
+  persons_modify_ticket_log: MyText
+  registration_created: 2013-12-12 01:57:13
+  assignment_to_person_id: 
+  description: MyString
+  customer_id: 
+  approval_result_id: 
+  last_person_to_modify_ticket_id: 
+  assignment_to_person_time: 2013-12-12 01:57:13
+  assignment_to_workgroup_time: 2013-12-12 01:57:13
+  actual_finish: 2013-12-12 01:57:13
+  approvers_required: 1
+  closure_code_id: 
+  deadline: 2013-12-12 01:57:13
+  information_log: MyText
+  requestor_id: 
+  service_call_id: 
+
+two:
+  id: 1
+  priority_id: 
+  status_id: 
+  persons_modify_ticket_log: MyText
+  registration_created: 2013-12-12 01:57:13
+  assignment_to_person_id: 
+  description: MyString
+  customer_id: 
+  approval_result_id: 
+  last_person_to_modify_ticket_id: 
+  assignment_to_person_time: 2013-12-12 01:57:13
+  assignment_to_workgroup_time: 2013-12-12 01:57:13
+  actual_finish: 2013-12-12 01:57:13
+  approvers_required: 1
+  closure_code_id: 
+  deadline: 2013-12-12 01:57:13
+  information_log: MyText
+  requestor_id: 
+  service_call_id: 
